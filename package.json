@@ -1,0 +1,12 @@
+{
+  "name": "be-stage-0",
+  "version": "1.0.0",
+  "description": "HNG Stage 0 Backend - Develop a Public API to Retrieve Basic Information",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
